@@ -3,11 +3,11 @@ export const data = [
     id: 1,
     name: "design",
     title: "Design",
-    desc: "Simply drag and drop photos and videos into your workspace to automatically add them to your Collab Cloud library.",
+    desc: "Design that captivates. Elevate your brand with our expert digital agency's creative and compelling design services.",
     video: "Avocado.mp4",
     photo: "asdasd.png",
     longDesc:
-      "Simply drag and drop photos and videos into your workspace to automatically add them to your Collab Cloud library. Simply drag and drop photos and videos into your workspace to automatically add them to your Collab Cloud library.",
+      "Transform your vision into captivating visuals with our comprehensive design services. Our skilled team crafts compelling graphics, user-centric interfaces, and memorable brand identities, ensuring your digital presence stands out in today's competitive landscape. Whether it's web design, UI/UX, or branding, we deliver aesthetic excellence that resonates with your audience and drives meaningful engagement.",
     images: [
       {
         id: 1,
@@ -39,10 +39,10 @@ export const data = [
     id: 2,
     name: "development",
     title: "Development",
-    desc: "Simply drag and drop photos and videos into your workspace to automatically add them to your Collab Cloud library.",
+    desc: "Empower your digital goals with our proficient development services.",
     photo: "dev.jpeg",
     longDesc:
-      "Simply drag and drop photos and videos into your workspace to automatically add them to your Collab Cloud library. Simply drag and drop photos and videos into your workspace to automatically add them to your Collab Cloud library.",
+      "From custom web applications to robust mobile solutions, our development services cater to your unique needs. Our adept team combines cutting-edge technologies with strategic planning, ensuring seamless functionality, optimal performance, and user-centric experiences. Partner with us to bring your digital visions to life.",
     images: [
       {
         id: 1,
@@ -74,10 +74,10 @@ export const data = [
     id: 3,
     name: "production",
     title: "Production",
-    desc: "Simply drag and drop photos and videos into your workspace to automatically add them to your Collab Cloud library.",
+    desc: "Turn concepts into reality with our top-tier production services.",
     photo: "production.jpeg",
     longDesc:
-      "Simply drag and drop photos and videos into your workspace to automatically add them to your Collab Cloud library. Simply drag and drop photos and videos into your workspace to automatically add them to your Collab Cloud library.",
+      "Our production services bring your ideas to life, combining creativity and technical expertise. From concept development to final execution, we handle every aspect, whether it's video production, animation, or audio creation. With a focus on quality and innovation, we deliver captivating content that engages, informs, and leaves a lasting impact on your audience.",
     images: [
       {
         id: 1,
@@ -109,10 +109,10 @@ export const data = [
     id: 4,
     name: "photography",
     title: "Photography",
-    desc: "Simply drag and drop photos and videos into your workspace to automatically add them to your Collab Cloud library.",
+    desc: "Capture moments in stunning detail with our professional photography services..",
     photo: "photography.jpeg",
     longDesc:
-      "Simply drag and drop photos and videos into your workspace to automatically add them to your Collab Cloud library. Simply drag and drop photos and videos into your workspace to automatically add them to your Collab Cloud library.",
+      "Our photography services capture the essence of your brand or event through the lens of creativity. From product photography to corporate events, our skilled photographers ensure each shot tells a compelling visual story. With an eye for detail and a knack for composition, we transform moments into timeless images that resonate with your audience and convey your message effectively.",
     images: [
       {
         id: 1,
@@ -147,8 +147,7 @@ export const users = [
     id: 1,
     logo: "yahoo.png",
     avatar: "user1.jpeg",
-    comment:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Utconsectetur veniam fugiat labore quaerat possimus laudantium.",
+    comment: "Efficient, creative agency. Impressive work!",
     name: "Harold Brown",
     title: "Executive Manager",
   },
@@ -157,7 +156,7 @@ export const users = [
     logo: "google.png",
     avatar: "user2.jpeg",
     comment:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Utconsectetur veniam fugiat labore quaerat possimus laudantium.",
+      "Rating: ⭐⭐⭐⭐⭐ Professional team delivering outstanding results!",
     name: "Anna Taylor",
     title: "HR Manager",
   },
@@ -165,8 +164,7 @@ export const users = [
     id: 3,
     logo: "facebook.png",
     avatar: "user3.jpeg",
-    comment:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Utconsectetur veniam fugiat labore quaerat possimus laudantium.",
+    comment: "Exceptional agency with innovative solutions.",
     name: "James Garry",
     title: "UI Designer",
   },
